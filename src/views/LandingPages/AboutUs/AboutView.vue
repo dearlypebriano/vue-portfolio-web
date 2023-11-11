@@ -42,14 +42,14 @@ onUnmounted(() => {
 });
 </script>
 <template>
-  <DefaultNavbar
+  <!-- <DefaultNavbar
     :action="{
       route: 'javascript:;',
       label: 'Buy Now',
       color: 'btn-white',
     }"
     transparent
-  />
+  /> -->
   <header class="bg-gradient-dark">
     <div
       class="page-header min-vh-75"

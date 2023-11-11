@@ -136,11 +136,11 @@ watch(
       >
         Material Design
       </RouterLink>
-      <a
+      <!-- <a
         href="https://www.creative-tim.com/product/vue-material-kit-pro"
         class="btn btn-sm bg-gradient-success mb-0 ms-auto d-lg-none d-block"
         >Buy Now</a
-      >
+      > -->
       <button
         class="navbar-toggler shadow-none ms-2"
         type="button"
@@ -754,7 +754,7 @@ watch(
               </div>
             </div>
           </li>
-          <li class="nav-item dropdown dropdown-hover mx-2">
+          <!-- <li class="nav-item dropdown dropdown-hover mx-2">
             <a
               role="button"
               class="nav-link ps-2 d-flex cursor-pointer align-items-center"
@@ -907,7 +907,7 @@ watch(
                 </div>
               </div>
             </div>
-          </li>
+          </li> -->
           <li class="nav-item dropdown dropdown-hover mx-2">
             <a
               href="https://github.com/Dearz-Md-Official/vue-portfolio-web"

@@ -28,7 +28,7 @@ import SimplePricingCard from "@/examples/cards/pricingCards/SimplePricingCard.v
     <div class="mt-lg-n8 mt-n6">
       <div class="container">
         <div class="row mt-5">
-          <SimplePricingCard
+          <!-- <SimplePricingCard
             title="Freelancer"
             description="Good for a personal or client web/mobile app."
             :price="{ currency: '$', amount: '79' }"
@@ -45,7 +45,7 @@ import SimplePricingCard from "@/examples/cards/pricingCards/SimplePricingCard.v
               'Support',
               'Free Updates - 6 months',
             ]"
-          />
+          /> -->
 
           <SimplePricingCard
             title="Startup"
@@ -61,7 +61,7 @@ import SimplePricingCard from "@/examples/cards/pricingCards/SimplePricingCard.v
             ]"
           />
 
-          <SimplePricingCard
+          <!-- <SimplePricingCard
             color="bg-gradient-dark"
             title="Company"
             description="Perfect for web/mobile apps or SaaS projects."
@@ -76,9 +76,9 @@ import SimplePricingCard from "@/examples/cards/pricingCards/SimplePricingCard.v
               'Priority support',
               'Free Updates - 12 months',
             ]"
-          />
+          /> -->
 
-          <SimplePricingCard
+          <!-- <SimplePricingCard
             title="Enterprise"
             description="Deploy large-scale projects which include redistribution
                     rights."
@@ -98,7 +98,7 @@ import SimplePricingCard from "@/examples/cards/pricingCards/SimplePricingCard.v
               'Priority support',
               'Free Updates - 24 months',
             ]"
-          />
+          /> -->
         </div>
         <div class="row">
           <div class="col-md-12">
