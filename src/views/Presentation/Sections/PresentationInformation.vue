@@ -13,22 +13,15 @@ import DefaultInfoCard from "../../../examples/cards/infoCards/DefaultInfoCard.v
             <RotatingCardFront
               image="https://images.unsplash.com/photo-1569683795645-b62e50fbf103?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
               icon="touch_app"
-              title="Feel the <br /> Material Kit"
-              description="All the Bootstrap components that you need in a development have been
-        re-design with the new look."
+              title="Feel the <br /> Website Portfolio"
+              description="Saya menggunakan semua code yang ada pada Bootstrap dan tailwind agar bisa membuat website seperti ini."
             />
 
             <RotatingCardBack
               image="https://images.unsplash.com/photo-1498889444388-e67ea62c464b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1365&q=80"
-              title="Discover More"
-              description="You will save a lot of time going from prototyping to full-functional
-                code because all elements are implemented."
-              :action="[
-                {
-                  route: './/sections/page-sections/hero-sections.html',
-                  label: 'Start with Headers',
-                },
-              ]"
+              title="Discover Website"
+              description="Terimakasih, telah mendatangi website saya, selamat menikmati pemandangan system yang sudah saya buat."
+              
             />
           </RotatingCard>
         </div>
@@ -37,14 +30,14 @@ import DefaultInfoCard from "../../../examples/cards/infoCards/DefaultInfoCard.v
             <DefaultInfoCard
               icon="content_copy"
               title="Full Documentation"
-              description="Built by developers for developers. Check the foundation and
-                  you will find everything inside our documentation."
+              description="Selama pembuatan website dan Software engineer, saya belajar banyak hal mulai dari Problem Solving
+              yang berbeda beda setiap projectnya, dan saya juga belajar banyak hal lain."
             />
             <DefaultInfoCard
               icon="flip_to_front"
-              title="Bootstrap 5 Ready"
-              description="The world’s most popular front-end open source toolkit,
-                  featuring Sass variables and mixins."
+              title="Bootstrap 5 & Tailwind"
+              description="Bootstrap 5 Dan Tailwind adalah salah satu Framework CSS yang bisa membantu anda dalam pengembangan 
+              website, khususnya untuk para Front End, sangat cocok jika kurang tau-menau mengenai styling."
             />
           </div>
           <div class="row justify-content-start mt-5">
@@ -52,15 +45,16 @@ import DefaultInfoCard from "../../../examples/cards/infoCards/DefaultInfoCard.v
               class="mt-3"
               icon="price_change"
               title="Save Time & Money"
-              description="Creating your design from scratch with dedicated designers can
-                be very expensive. Start with our Design System."
+              description="Membuat design, Tampilan Website, Operasi Website dan lain-lain membutuhkan waktu yang bisa dibilang
+              cukup lama dan memakan banyak sekali waktu, akan tetapi perjuangan kita sebagai seorang programmer tidak mudah
+              menyerah, kita selalu bisa menghadapi masalah yang ada dan membuat masalah itu menjadi selesai, dengan begitu
+              kita bisa mendapatkan uang dengan skill yang kita miliki."
             />
             <DefaultInfoCard
               class="mt-3"
               icon="devices"
               title="Fully Responsive"
-              description="Regardless of the screen size, the website content will
-                  naturally fit the given resolution."
+              description="Pastinya kalian sudah tidak asing lagi dengan kata Responsive, Responsive adalah ebuah metode atau pendekatan sistem web desain yang bertujuan memberikan pengalaman berselancar yang optimal dalam berbagai perangkat, baik mobile maupun komputer meja."
             />
           </div>
         </div>

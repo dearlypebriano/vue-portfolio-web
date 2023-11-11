@@ -1,7 +1,7 @@
 <script setup>
 import { onMounted } from "vue";
 
-//Vue Material Kit 2 components
+//Vue Portfolio Website components
 import MaterialAvatar from "@/components/MaterialAvatar.vue";
 import MaterialButton from "@/components/MaterialButton.vue";
 
@@ -36,7 +36,7 @@ onMounted(() => {
               <div
                 class="d-flex justify-content-between align-items-center mb-2"
               >
-                <h3 class="mb-0">Michael Roven</h3>
+                <h3 class="mb-0">Dearly Febriano Irwansyah</h3>
                 <div class="d-block">
                   <MaterialButton
                     class="text-nowrap mb-0"
@@ -62,10 +62,10 @@ onMounted(() => {
                 </div>
               </div>
               <p class="text-lg mb-0">
-                Decisions: If you can’t decide, the answer is no. If two equally
-                difficult paths, choose the one more painful in the short term
-                (pain avoidance is creating an illusion of equality). Choose the
-                path that leaves you more equanimous.
+                Hai, perkenalkan nama saya Dearly Febriano Irwansyah, bisa dipanggil Dearly, di lingkungan pertemanan saya biasa 
+                dipanggil Deder, saya lahir pada tanggal 09-Februari-2008, dan saya berasal dari Indonesia, saya mempelajari 
+                Coding pada saat umur saya 13 Tahun, dan dimana waktu itu masih ada Wabah yang bernama Covid-19, diwaktu 
+                senggang seperti itu, saya menyempatkan diri untuk belajar coding sebagai pengisi kehampaan di rumah...
                 <br /><a
                   href="javascript:;"
                   class="text-success icon-move-right"

@@ -6,24 +6,12 @@ defineProps({
     link: String,
     default: () => [
       {
-        icon: '<i class="fab fa-facebook text-lg opacity-8"></i>',
-        link: "https://www.facebook.com/CreativeTim/",
-      },
-      {
-        icon: '<i class="fab fa-twitter text-lg opacity-8"></i>',
-        link: "https://twitter.com/creativetim",
-      },
-      {
-        icon: '<i class="fab fa-dribbble text-lg opacity-8"></i>',
-        link: "https://dribbble.com/creativetim",
-      },
-      {
         icon: '<i class="fab fa-github text-lg opacity-8"></i>',
-        link: "https://github.com/creativetimofficial",
+        link: "https://github.com/Dearz-Md-Official",
       },
       {
         icon: '<i class="fab fa-youtube text-lg opacity-8"></i>',
-        link: "https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w",
+        link: "https://www.youtube.com/@DearzDevOp",
       },
     ],
   },
@@ -75,7 +63,8 @@ defineProps({
       <div class="row">
         <div class="col-8 mx-auto text-center mt-1">
           <p class="mb-0 text-secondary">
-            Copyright © {{ new Date().getFullYear() }} Material by Creative Tim.
+            Copyright © {{ new Date().getFullYear() }} Website By Dearly
+            Febriano I.
           </p>
         </div>
       </div>

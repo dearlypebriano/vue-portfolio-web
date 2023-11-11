@@ -48,8 +48,8 @@
             </li>
           </ul>
           <p class="text-sm text-dark opacity-8 mb-0">
-            Copyright © {{ new Date().getFullYear() }} Material Design by
-            Creative Tim.
+            Copyright © {{ new Date().getFullYear() }} Website Design by
+            Dearly Febriano I.
           </p>
         </div>
         <div class="col-lg-6 ms-auto text-lg-end text-center">

@@ -1,6 +1,6 @@
 <script setup>
 import { onMounted } from "vue";
-//Vue Material Kit 2 components
+//Vue Portfolio Website components
 import MaterialButton from "@/components/MaterialButton.vue";
 import MaterialInput from "@/components/MaterialInput.vue";
 import MaterialTextArea from "@/components/MaterialTextArea.vue";
@@ -48,7 +48,7 @@ onMounted(() => {
                         <i class="fas fa-phone text-sm"></i>
                       </div>
                       <div class="ps-3">
-                        <span class="text-sm opacity-8">(+40) 772 100 200</span>
+                        <span class="text-sm opacity-8">+62 838-3852-8126</span>
                       </div>
                     </div>
                     <div class="d-flex p-2 text-white">
@@ -57,7 +57,7 @@ onMounted(() => {
                       </div>
                       <div class="ps-3">
                         <span class="text-sm opacity-8"
-                          >hello@creative-tim.com</span
+                          >cyberwise@gmail.com</span
                         >
                       </div>
                     </div>
@@ -67,52 +67,11 @@ onMounted(() => {
                       </div>
                       <div class="ps-3">
                         <span class="text-sm opacity-8"
-                          >Dyonisie Wolf Bucharest, RO 010458</span
+                          >Mulyorejo Tengah Gang 7 No. 3, Kode Pos 60115</span
                         >
                       </div>
                     </div>
-                    <div class="mt-4">
-                      <MaterialButton
-                        color="none"
-                        size="lg"
-                        class="btn-icon-only btn-link text-white mb-0"
-                        data-toggle="tooltip"
-                        data-placement="bottom"
-                        data-original-title="Log in with Facebook"
-                      >
-                        <i class="fab fa-facebook"></i>
-                      </MaterialButton>
-                      <MaterialButton
-                        color="none"
-                        size="lg"
-                        class="btn-icon-only btn-link text-white mb-0"
-                        data-toggle="tooltip"
-                        data-placement="bottom"
-                        data-original-title="Log in with Twitter"
-                      >
-                        <i class="fab fa-twitter"></i>
-                      </MaterialButton>
-                      <MaterialButton
-                        color="none"
-                        size="lg"
-                        class="btn-icon-only btn-link text-white mb-0"
-                        data-toggle="tooltip"
-                        data-placement="bottom"
-                        data-original-title="Log in with Dribbble"
-                      >
-                        <i class="fab fa-dribbble"></i>
-                      </MaterialButton>
-                      <MaterialButton
-                        color="none"
-                        size="lg"
-                        class="btn-icon-only btn-link text-white mb-0"
-                        data-toggle="tooltip"
-                        data-placement="bottom"
-                        data-original-title="Log in with Instagram"
-                      >
-                        <i class="fab fa-instagram"></i>
-                      </MaterialButton>
-                    </div>
+                    
                   </div>
                 </div>
               </div>

@@ -7,8 +7,8 @@ import DefaultFooter from "../../examples/footers/FooterDefault.vue";
 import Header from "../../examples/Header.vue";
 import FilledInfoCard from "../../examples/cards/infoCards/FilledInfoCard.vue";
 
-//Vue Material Kit 2 components
-import MaterialSocialButton from "@/components/MaterialSocialButton.vue";
+//Vue Portfolio Website components
+// import MaterialSocialButton from "@/components/MaterialSocialButton.vue";
 
 // sections
 import PresentationCounter from "./Sections/PresentationCounter.vue";
@@ -21,7 +21,7 @@ import PresentationInformation from "./Sections/PresentationInformation.vue";
 
 //images
 import vueMkHeader from "@/assets/img/vue-mk-header.jpg";
-import wavesWhite from "@/assets/img/waves-white.svg";
+// import wavesWhite from "@/assets/img/waves-white.svg";
 import logoBootstrap from "@/assets/img/logos/bootstrap5.jpg";
 import logoTailwind from "@/assets/img/logos/icon-tailwind.jpg";
 import logoVue from "@/assets/img/logos/vue.jpg";
@@ -62,11 +62,10 @@ onUnmounted(() => {
               class="text-white pt-3 mt-n5 me-2"
               :style="{ display: 'inline-block ' }"
             >
-              Material Kit 2
+              Portfolio Website
             </h1>
             <p class="lead text-white px-5 mt-3" :style="{ fontWeight: '500' }">
-              Start the Development With Bootstrap 5 Design System inspired by
-              Material Design.
+              Sejauh yang saya pikirkan, situs web ini memperkenalkan diri saya. Saya berharap Anda dapat memahami diri saya lebih mendalam dan merasa lebih akrab dengan saya.
             </p>
           </div>
         </div>
@@ -93,7 +92,7 @@ onUnmounted(() => {
             :action="{
               route:
                 'https://www.creative-tim.com/learning-lab/vue/overview/material-kit/',
-              label: { text: 'Let\'s start', color: 'white' }
+              label: { text: 'Let\'s start', color: 'white' },
             }"
           />
         </div>
@@ -108,7 +107,7 @@ onUnmounted(() => {
             :action="{
               route:
                 'https://www.creative-tim.com/learning-lab/vue/input/material-kit/',
-              label: { text: 'Read more' }
+              label: { text: 'Read more' },
             }"
           />
         </div>
@@ -122,7 +121,7 @@ onUnmounted(() => {
             :action="{
               route:
                 'https://www.creative-tim.com/learning-lab/vue/utilities/material-kit/',
-              label: { text: 'Read more' }
+              label: { text: 'Read more' },
             }"
           />
         </div>
@@ -130,16 +129,16 @@ onUnmounted(() => {
     </div>
     <PresentationTestimonials />
 
-    <div
+    <!-- <div
       class="container-fluid mt-sm-5 border-radius-xl"
       :style="{
-        background: 'linear-gradient(195deg, rgb(66, 66, 74), rgb(25, 25, 25))'
+        background: 'linear-gradient(195deg, rgb(66, 66, 74), rgb(25, 25, 25))',
       }"
     >
       <div
         class="page-header py-6 py-md-5 my-sm-3 mb-3 border-radius-xl"
         :style="{
-          backgroundImage: `url(${wavesWhite})`
+          backgroundImage: `url(${wavesWhite})`,
         }"
         loading="lazy"
       >
@@ -168,7 +167,7 @@ onUnmounted(() => {
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
     <div class="container">
       <div class="row">
@@ -270,7 +269,7 @@ onUnmounted(() => {
             <p class="lead mb-0">We deliver the best web products</p>
           </div>
           <div class="col-lg-5 me-lg-auto my-lg-auto text-lg-end mt-5">
-            <MaterialSocialButton
+            <!-- <MaterialSocialButton
               route="https://twitter.com/intent/tweet?text=Check%20Material%20Design%20System%20made%20by%20%40CreativeTim%20%23webdesign%20%23designsystem%20%23bootstrap5&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-design-system-pro"
               component="twitter"
               color="twitter"
@@ -287,7 +286,7 @@ onUnmounted(() => {
               component="pinterest"
               color="pinterest"
               label="Pin it"
-            />
+            /> -->
           </div>
         </div>
       </div>

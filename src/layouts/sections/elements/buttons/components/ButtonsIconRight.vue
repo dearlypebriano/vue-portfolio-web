@@ -1,5 +1,5 @@
 <script setup>
-//Vue Material Kit 2 components
+//Vue Portfolio Website components
 import MaterialButton from "@/components/MaterialButton.vue";
 </script>
 <template>

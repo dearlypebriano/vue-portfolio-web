@@ -1,7 +1,7 @@
 <script setup>
 import { onMounted } from "vue";
 
-//Vue Material Kit 2 components
+//Vue Portfolio Website components
 import MaterialAvatar from "@/components/MaterialAvatar.vue";
 
 // images

@@ -1,14 +1,14 @@
-# [Vue Material Kit 2](http://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-material-kit&text=Check%20Vue%20Material%20kit%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#vue%20https://www.creative-tim.com/product/vue-material-kit)
+# [Vue Portfolio Website](http://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-material-kit&text=Check%20Vue%20Material%20kit%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#vue%20https://www.creative-tim.com/product/vue-material-kit)
 
-![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aissue+is%3Aclosed)
+![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-material-kit.svg)](https://github.com/Dearz-Md-Official/vue-material-kit/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-material-kit.svg)](https://github.com/Dearz-Md-Official/vue-material-kit/issues?q=is%3Aissue+is%3Aclosed)
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/97/original/vue-material-kit-2.jpg)
 
-Vue Material Kit 2 is our newest free VueJS Design System. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
+Vue Portfolio Website is our newest free VueJS Design System. Its amazing design is inspired by Material Design and contains all the components you need for your development. If you’re a developer looking to create good-looking websites, rich with features, and highly customisable, here is your match.
 
-**Fully Coded Elements**
+**Fully Web Developers**
 
-Vue Material Kit 2 is built with over 70 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
+Vue Portfolio Website is built with over 70 frontend individual elements, like buttons, inputs, navbars, alerts or cards, giving you the freedom of choosing and combining. All components can take variations in color, which you can easily modify using sass files. You will save a lot of time going from prototyping to full-functional code because all elements are implemented.
 
 This free VueJS 3 & Bootstrap 5 template is coming with pre-built design blocks, so the development process is seamless,
 switching from our pages to the real website is very easy to be done.
@@ -27,7 +27,7 @@ View [example pages here.](https://demos.creative-tim.com/vue-material-kit/)
 
 **HELPFUL LINKS**
 
-- View [Github Repository](https://github.com/creativetimofficial/vue-material-kit)
+- View [Github Repository](https://github.com/Dearz-Md-Official/vue-material-kit)
 - Check [FAQ Page](https://www.creative-tim.com/faq)
 
 #### Special thanks
@@ -165,13 +165,13 @@ At present, we officially aim to support the last two versions of the following 
 - Documentation is [here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/?ref=readme-vmk)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-vmk)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-vmk)
-- Issues: [Github Issues Page](https://github.com/creativetimofficial/vue-material-kit/issues)
+- Issues: [Github Issues Page](https://github.com/Dearz-Md-Official/vue-material-kit/issues)
 
 ## Reporting Issues
 
-We use GitHub Issues as the official bug tracker for the Vue Material Kit 2. Here are some advices for our users that want to report an issue:
+We use GitHub Issues as the official bug tracker for the Vue Portfolio Website. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Vue Material Kit 2. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk).
+1. Make sure that you are using the latest version of the Vue Portfolio Website. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -188,7 +188,7 @@ If you have questions or need help integrating the product please [contact us](h
 
 - [More products](https://www.creative-tim.com/templates?ref=readme-vmk) from Creative Tim
 
-- [Tutorials](https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w)
+- [Tutorials](https://www.youtube.com/@DearzDevOp)
 
 - [Freebies](https://www.creative-tim.com/bootstrap-themes/free?ref=readme-vmk) from Creative Tim
 

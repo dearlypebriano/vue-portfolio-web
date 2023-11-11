@@ -11,11 +11,10 @@ import DefaultCounterCard from "../../../examples/cards/counterCards/DefaultCoun
             <div class="col-md-4 position-relative">
               <DefaultCounterCard
                 color="success"
-                title="Coded Elements"
-                description="From buttons, to inputs, navbars, alerts or cards, you are
-                  covered"
-                :count="70"
-                suffix="+"
+                title="Web Developers"
+                description="Sudah 3 Tahun saya mendalami untuk melakukan pengembangan menjadi Web Developers, dan saya berhasil membangun website Portfolio saya sendiri secara Full Stack dengan menggunakan Framework Vue Js dan Laravel"
+                :count="1"
+                suffix=" Tahun"
                 :duration="3000"
                 divider="vertical"
               />
@@ -23,11 +22,11 @@ import DefaultCounterCard from "../../../examples/cards/counterCards/DefaultCoun
             <div class="col-md-4 position-relative">
               <DefaultCounterCard
                 color="success"
-                title="Design Blocks"
-                description="Mix the sections, change the colors and unleash your
-                  creativity"
-                :count="15"
-                suffix="+"
+                title="Software Engineer"
+                description="Saya sudah cukup mendalami tentang pengembangan Software, dan saya berhasil membuat
+                Software yaitu, Software Kasir sederhana, yang dibangun menggunakan CPP / C++ dan Java"
+                :count="3"
+                suffix=" Tahun"
                 :duration="3000"
                 divider="vertical"
               />
@@ -35,11 +34,12 @@ import DefaultCounterCard from "../../../examples/cards/counterCards/DefaultCoun
             <div class="col-md-4">
               <DefaultCounterCard
                 color="success"
-                title="Pages"
-                description="Save 3-4 weeks of work when you use our pre-made pages for
-                  your website"
-                :count="4"
-                :duration="3000"
+                title="Pengembangan Logic"
+                description="Selama 4 tahun saya mempelajari Website Dan Software, saya lebih berfokus kepada Logic yang ada
+                pada Website maupun Software tersebut, biasa disebut sebagai Back End"
+                :count="1460"
+                suffix=" Hari"
+                :duration="20000"
               />
             </div>
           </div>
